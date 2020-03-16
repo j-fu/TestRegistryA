@@ -3,3 +3,4 @@ repo = "git@github.com:j-fu/TestRegistryA.git"
 uuid = "f7454266-67da-11ea-294d-95bb4ec108e3"
 
 [packages]
+f96ef79c-9624-42ef-94ca-9c037a44f2be = { name = "TestPackage", path = "T/TestPackage" }
