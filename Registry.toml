@@ -1,0 +1,5 @@
+name = "/home/fuhrmann/Wias/work/julia/test/multiregistry/TestRegistryA"
+repo = "git@github.com:j-fu/TestRegistryA.git"
+uuid = "f7454266-67da-11ea-294d-95bb4ec108e3"
+
+[packages]
